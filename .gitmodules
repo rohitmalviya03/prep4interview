@@ -1,3 +1,2 @@
-[submodule "path_to_submodule"] 
-  path = path_to_submodule 
+
   url = git://origin https://github.com/rohitmalviya03/prep4interview.git/
